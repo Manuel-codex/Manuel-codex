@@ -4,14 +4,14 @@
 
 **I build automations and AI workflows that save time and make processes clearer.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](<www.linkedin.com/in/emmanuel-kofi-mensah-b491b120b>)
-[![Email](https://img.shields.io/badge/Email-Contact-181717?style=flat-square&logo=gmail&logoColor=white)](mailto:<mensahemmanuel691@gmail.com>)
+[LinkedIn](https://www.linkedin.com/in/emmanuel-kofi-mensah-b491b120b)
+[Email](mailto:mensahemmanuel691@gmail.com)
 
 ---
 
 ## About
 
-I'm an AI Engineering student at the University of Passau, Germany. I focus on workflow automation, APIs, and AI-powered tools. I'm looking for <working student / internship / thesis> opportunities in <field>.
+I'm an AI Engineering student at the University of Passau, building automation workflows and AI-powered tools with n8n, Python, and APIs. I'm looking for working student and internship opportunities in AI and automation engineering, in Germany or remote.
 
 ## How I Build
 
@@ -39,4 +39,4 @@ n8n · Power Automate
 
 ## Contact
 
-[LinkedIn](<www.linkedin.com/in/emmanuel-kofi-mensah-b491b120b>) · [Email](mailto:<mensahemmanuel691@gmail.com>)
+[LinkedIn](https://www.linkedin.com/in/emmanuel-kofi-mensah-b491b120b) · [Email](mailto:mensahemmanuel691@gmail.com)
